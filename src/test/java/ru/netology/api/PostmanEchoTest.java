@@ -22,5 +22,5 @@ public class PostmanEchoTest {
                 .body("data", equalTo("some data"))
         ;
     }
- 
+
 }
